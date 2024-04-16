@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpda5rGvi2KaO9T60VVj6CeLsF0avKc3s0Oz8CX7ufJT6wHq5RaIPWOYxIn719ZdhREIjBVWkyE1pUH1dHx2oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91965\\source\\repos\\MapsWinForms\\MapsWinForms\\MapsWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91965\\.nuget\\packages\\microsoft.web.webview2\\1.0.2420.47\\microsoft.web.webview2.1.0.2420.47.nupkg.sha512"
+  ],
+  "logs": []
+}
